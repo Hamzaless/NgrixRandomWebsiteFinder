@@ -1,4 +1,4 @@
-# NGRIX.SPACE
+# [NGRIX.SPACE](https://ngrix.space)
 ## RANDOM WEBSITE FINDER (RWF)
 It works with 8 threads and its really fast :)<br>
 Download From Here: [Download](https://github.com/Hamzaless/NgrixRandomWebsiteFinder/releases/tag/1.0.0)<br>
